@@ -26,5 +26,6 @@
 			name="doThisToArtwork"> <input type="submit"
 			value="Delete Selected Artwork" name="doThisToArtwork"> <input
 			type="submit" value="Add New Artwork" name="doThisToArtwork">
+	</form>
 </body>
 </html>
